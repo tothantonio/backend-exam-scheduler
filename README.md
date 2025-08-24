@@ -56,8 +56,8 @@ frontend/
 
 ````
 
-![1](https://raw.githubusercontent.com/tothantonio/Exam-Scheduler/refs/heads/main/frontend/public/1.png?token=GHSAT0AAAAAADGAQNLFBZJ557DR657AV2KK2E2J3YA)
+![1](https://github.com/tothantonio/frontend-exam-scheduler/blob/main/frontend/public/1.png?raw=true)
 
-![2](https://raw.githubusercontent.com/tothantonio/Exam-Scheduler/refs/heads/main/frontend/public/2.png?token=GHSAT0AAAAAADGAQNLEUTR5BKSJGQOKGJYS2E2J5DA)
+![2](https://github.com/tothantonio/frontend-exam-scheduler/blob/main/frontend/public/2.png?raw=true)
 
 
